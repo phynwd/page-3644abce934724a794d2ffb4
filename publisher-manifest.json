@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e3d1d6815fc4c1a94691e344",
+  "owner": "phynwd",
+  "repo": "page-3644abce934724a794d2ffb4",
+  "title": "指画青藤",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3644abce934724a794d2ffb4",
+      "a": "指画青藤",
+      "b": "机场官网线路发布页",
+      "entity": "指画青藤",
+      "brand": "指画青藤",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b78168271c972209ee03daebc194a946fd0a28e3a0cb63d461e763609f79e6b1",
+      "content": {
+        "primary_entity": "指画青藤",
+        "keyword1": "指画青藤",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择适配工具，手机与电脑可分别安装对应客户端后导入订阅。",
+          "AI_CLIENTS_TITLE": "设备与订阅客户",
+          "AI_CLOSING_TEXT": "选好套餐并导入订阅，即可在常用设备上开始使用。",
+          "AI_CLOSING_TITLE": "选套餐，连设备",
+          "AI_DESCRIPTION": "，指画青藤提供多档海外加速套餐，从基础版到团队版覆盖不同流量与设备数量需求，支持流媒体解锁与专线加速，订阅导入方式清晰，便于按设备配置客户端。",
+          "AI_FAQ_ANSWER_1": "根据设备数量与月流量选。单人三台设备以内、流量需求不高可选基础版；需要更多设备与专线游戏加速可选旗舰版；团队多设备选团队版。",
+          "AI_FAQ_ANSWER_2": "一个订阅通常覆盖套餐规定的设备数量，基础版 3 台，旗舰版 5 台，团队版 20 台。超出时可升级套餐或调整在线设备。",
+          "AI_FAQ_ANSWER_3": "在账户内找到订阅链接或配置文件，复制到所选的客户端中导入即可。不同客户端导入方式略有差异，可参考客户端说明。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用，年付价格更低。基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版支持全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。具体可用范围随节点与地区不同，可先选基础版测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "指画青藤的套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速支持哪些套餐？",
+          "AI_FAQ_TITLE": "套餐与设备常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个角度对比套餐，选起来更直接。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月，旗舰版 300GB/月，团队版 1000GB/月，按用量挑合适档位。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按家庭或团队设备数选。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省；基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TITLE_2": "按设备选",
+          "AI_FEATURE_TITLE_3": "按周期选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到设备配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "指画青藤面向需要海外加速的用户，提供基础版、旗舰版与团队版三档订阅，覆盖流量、设备数量与专线加速等不同场景，可按设备配置客户端并导入订阅。",
+          "AI_HERO_SUBTITLE": "多档海外加速套餐可选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "支持流媒体解锁与专线加速",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体与游戏加速，团队版适合多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确定设备数量和每月流量，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "查看套餐对应的设备上限与流媒体解锁范围，确认满足使用需求。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅链接，按客户端文档完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "指画青藤海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lnqjlhe.cn",
+    "host": "lnqjlhe.cn"
+  },
+  "file_hashes": {
+    "index.html": "fd03713329e37557a3e74b4b7a64b4519ae1cd8d94469416735accd5cc86445f",
+    "sitemap.xml": "901dc15c9a7e0c570c1c3fd3e2c01e2ca7f822757d70cc37cf204189e9489e3c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e73e58d38314acbe97c1268ffb7fcf7ee79712c761e1e15ae7887ce4577d0683",
+    "robots.txt": "e26aa5b6a22528e6c787ffc78eaa6115a67f3d1523efc9a5c829b4dce9147e7f",
+    "272d578d683f1ca24405602134818e0b.txt": "badcc91085046e39b15fbe7cb2b6815a5d6973a6fe674e0690f6144a50eff2b9"
+  },
+  "revision": "b803654b189a120a6765a311e0e3ee7a4ac070815539c7492073fd1bac3fa655"
+}
